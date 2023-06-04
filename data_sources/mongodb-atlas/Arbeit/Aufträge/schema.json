@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "Auftrags Nr": {
+            "bsonType": "string"
+        },
+        "Kunde": {
+            "bsonType": "string"
+        },
+        "Menge": {
+            "bsonType": "string"
+        },
+        "Produkt": {
+            "bsonType": "string"
+        },
+        "_id": {
+            "bsonType": "objectId"
+        }
+    },
+    "title": "Aufträge"
+}
